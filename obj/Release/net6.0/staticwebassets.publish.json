@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KR/BgzPcNa9ORL3uDAyLZSy7SUBlEUGirVNvm1lWjRc=",
+  "Source": "api-code-deploy",
+  "BasePath": "_content/api-code-deploy",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
