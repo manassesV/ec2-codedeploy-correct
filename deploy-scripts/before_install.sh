@@ -1,2 +1,2 @@
-﻿rm -rf /var/www/*
-rm -rf /etc/systemd/system/webapi.service
+﻿rm -r -f /var/www/*
+rm -r -f /etc/systemd/system/webapi.service
