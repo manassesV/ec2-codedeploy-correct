@@ -1,6 +1,6 @@
 version: 0.2
 phases:
-  pre_bild:
+  pre_build:
     commands:
       - echo Restore started on `date`
       - dotnet restore api-code-deploy.csproj
