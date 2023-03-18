@@ -1,9 +1,10 @@
 version: 0.2
 phases:
+  install:
+    runtime-versions:
+    dotnet: 6.0   
   pre_build:
     commands:
-      - echo Removing global.json file
-      - rm ./global.json -f
       - echo Restore started on `date`
       - dotnet restore api-code-deploy.csproj
   build:
